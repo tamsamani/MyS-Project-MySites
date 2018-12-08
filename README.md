@@ -1,44 +1,21 @@
-[![Deploy to now](https://deploy.now.sh/static/button.svg)](https://deploy.now.sh/?repo=https://github.com/zeit/next.js/tree/master/examples/hello-world)
+[![Deploy to now](https://deploy.now.sh/static/button.svg)](https://deploy.now.sh/?repo=https://github.com/tamsamani/MyS-Project-MySites/tree/master/)
 
-# Hello World example
+# MyS-Projects
 
-## How to use
+## <h3 dir="rtl"> ما هو مشروع MyS-Projects؟</h3>
 
-### Using `create-next-app`
+<p dir="rtl">هو مشروع شخصي يحتضن مجموعة من الحلول والتطبيقات البرمجية التي يتم تقديمها في نفس المنصة</p>
+<p dir="rtl">للمزيد من المعلومات حول المشروع راجع التفاصيل على صفحة المشروع</p>
 
-Execute [`create-next-app`](https://github.com/segmentio/create-next-app) with [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/) or [npx](https://github.com/zkat/npx#readme) to bootstrap the example:
+## <h3 dir="rtl">ما هي MySites ؟</h3>
 
-```bash
-npx create-next-app --example hello-world hello-world-app
-# or
-yarn create next-app --example hello-world hello-world-app
-```
+<p dir="rtl">
+MySites هي مجموعة من المواقع وتطبيقات الويب التي تم تصميمها تحت مشروع MySProjects
+</p>
 
-### Download manually
+## <h3 dir="rtl">التراخيص</h3>
 
-Download the example:
-
-```bash
-curl https://codeload.github.com/zeit/next.js/tar.gz/canary | tar -xz --strip=2 next.js-canary/examples/hello-world
-cd hello-world
-```
-
-Install it and run:
-
-```bash
-npm install
-npm run dev
-# or
-yarn
-yarn dev
-```
-
-Deploy it to the cloud with [now](https://zeit.co/now) ([download](https://zeit.co/download))
-
-```bash
-now
-```
-
-## The idea behind the example
-
-This example shows the most basic idea behind Next. We have 2 pages: `pages/index.js` and `pages/about.js`. The former responds to `/` requests and the latter to `/about`. Using `next/link` you can add hyperlinks between them with universal routing capabilities. The `day` directory shows that you can have subdirectories.
+<p dir="rtl">هذا المشروع تم إداراته عبر برامج وخدمات وسيطة</p>
+<p dir="rtl">في ما يلي قائمة الأدوات والوسائط المعتمدة وروابط مشاريعها</p>
+<p dir="rtl">هذا المشروع هو مشروع مفتوح المصدر تحت رخصة المشاع الإبداعي المفتوح أباتش-2
+إقرأ نص الترخيص من هنا</p>
